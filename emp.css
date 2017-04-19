@@ -1,0 +1,43 @@
+.emp>li{
+    width: 400px;
+
+}
+.header>li{
+    width: 175px;
+}
+li{
+    list-style: none;
+    cursor: pointer;
+    text-align: center;
+
+}
+.empName{
+    /*border: 1px solid red;*/
+    width: 100px;
+}
+.empName:hover,.bio:hover{
+    text-decoration: underline;
+}
+.display{
+     display: none;
+ }
+.block{
+    display: block;
+}
+.lf{
+    float: left;
+}
+.rt{
+    float: right;
+}
+.clear{
+    clear: both;
+}
+.header{
+    font-size: 20px;
+    color: blue;
+    font-weight: bold;
+}
+div{
+    width: 200px;
+}
